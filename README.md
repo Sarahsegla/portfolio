@@ -1,31 +1,24 @@
 
-# DeffoDelish-HTML
-
-
+# portfolio
 
 ## User Story
-- Food critic using HTML
-
-## Acceptance Criteria
-- Find restaurants using API.
-- Food blog
+This will be portfolio of webpages, projects and challenges in the bootcamp.\
+Page was made using React.\
+Have images and icons.
 
 
 ## Installation
 
-```
-npm install
-npm start
 
-```
 
-## Depository Link 
-- HTML verison https://sarahsegla.github.io/DeffoDelish-HTML/
-- Netlify https://stunning-flan-4f643a.netlify.app/
+
+## Link 
+
+- 
+
 
 ## screenshot
 
 
-## Usage
 
-To be able to search for restaurants and read food blog
+
