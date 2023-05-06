@@ -12,10 +12,10 @@ function Item(props)
             </div>
 
             <Button variant="text" className="LinkButton">
-            <a href={props.item.url} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '30px' }} >{props.item.description}</a>
+            <a href={props.item.url} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '30px', fontSize: '40px' }} >{props.item.description}</a>
             </Button>
             <Button variant="text" className="GitButton">
-            <a href={props.item.GitUrl} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '1000px' }}>GitHub Repository </a>
+            <a href={props.item.GitUrl} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '1000px', fontSize: '40px' }}>GitHub Repository </a>
             </Button>
         </Paper>
     )
