@@ -30,7 +30,7 @@ function Home () {
         </Grid>
         <Grid item xs={8}>
         
-          <img src={Me} alt="me" style={{paddingLeft: '30px', paddingTop: '20px'}}/>
+          <img className="pic" src={Me} alt="me" style={{paddingLeft: '30px', paddingTop: '20px'}}/>
           
         </Grid>
       </Grid>
