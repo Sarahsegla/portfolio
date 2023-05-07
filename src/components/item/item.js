@@ -7,15 +7,15 @@ function Item(props)
     return (
         <Paper>
             <div className="mySlides" style={{textAlign: 'center'}}>
-            <img src={props.item.image} alt={props.item.description} style={{width: '600', height: '500', paddingTop: '10px' }}/>
+            <img className="slidesCss" src={props.item.image} alt={props.item.description} style={{width: '600', height: '500', paddingTop: '10px' }}/>
            
             </div>
             <div className="buttons">
             <Button variant="text" className="LinkButton">
             <a href={props.item.url}  style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '30px', fontSize: '40px' }} >{props.item.description}</a>
             </Button>
-            <Button variant="text" className="GitButton">
-            <a href={props.item.GitUrl} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '1000px', fontSize: '40px' }}>GitHub Repository </a>
+            <Button variant="text" className="GitButton" style={{textAlign: 'right'}}>
+            <a className="GitButton1" href={props.item.GitUrl} style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingLeft: '40px', fontSize: '40px' }}>GitHub Repository </a>
             </Button>
             </div>
         </Paper>
