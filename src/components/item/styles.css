@@ -3,6 +3,14 @@ text-align: center;
 }
 
 
+.GitButton1  {
+    border: 1px orange solid;
+}
+
+.GitButton2 {
+    border: 1px orange solid;
+}
+
 @media (max-width: 432px) {
 .slidesCss{
     width:400px;
