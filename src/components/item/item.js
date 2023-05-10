@@ -7,7 +7,7 @@ function Item(props)
     return (
         <Paper>
             <div className="mySlides" style={{textAlign: 'center'}}>
-            <img className="slidesCss" src={props.item.image} alt={props.item.description} style={{width: '400', height: '400', paddingTop: '10px' }}/>
+            <img className="slidesCss" src={props.item.image} alt={props.item.description} style={{width: '500px', height: '400px', paddingTop: '10px' }}/>
            
             </div>
             <div className="buttons">
