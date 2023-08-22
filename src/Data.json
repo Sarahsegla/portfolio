@@ -27,25 +27,32 @@
     "GitUrl": "https://github.com/mohseenHamid/tsbc-project-1-moviepedia"
 },
 {
-    "Id": "4",
+    "Id": "5",
     "image": "images/quiz.png",
     "description": "Code Quiz",
     "url": "https://sarahsegla.github.io/Code-Quiz/",
     "GitUrl": "https://github.com/Sarahsegla/Code-Quiz"
 },
 {
-    "Id": "4",
+    "Id": "6",
     "image": "images/readme.png",
     "description": "Professional README Generator",
     "url": "https://sarahsegla.github.io/Professional-README-Generator/",
     "GitUrl": "https://github.com/Sarahsegla/Professional-README-Generator"
 },
 {
-    "Id": "4",
+    "Id": "7",
     "image": "images/new.png",
     "description": "Food Blog",
     "url": "https://github.com/Sarahsegla/deffo-delish",
     "GitUrl": "https://stunning-flan-4f643a.netlify.app/"
+},
+{
+    "Id": "8",
+    "image": "images/wordpress.PNG",
+    "description": "WordPress Portfolio",
+    "url": "https://ablavisarahsegla.wordpress.com/",
+    "GitUrl": "https://ablavisarahsegla.wordpress.com/"
 }
 
 ]
